@@ -1,5 +1,7 @@
 # AI-Personalized-Medicine
 
+https://notebooklm.google.com/notebook/f7ef17bc-4634-4043-9ef5-8a93f2bd16ee
+
 Tema: Como funciona a utilização da inteligência artificial no desenvolvimento de novos medicamentos
 
 Objetivo: Entender quais são as principais ferramentas de IA utilizadas na medicina personalizada e suas aplicações
@@ -109,26 +111,23 @@ Na vanguarda da medicina genética, a IA é usada para:
 
 Quais são os gargalos da utilização de IA na medicina personalizada?
 
-Escassez, Qualidade e Padronização de Dados: A IA é tão inteligente quanto os dados com os quais é alimentada, e os modelos robustos exigem grandes volumes de dados estruturados
-. Na biologia e na medicina, os dados costumam ser escassos, ruidosos, incompletos e isolados em diferentes instituições, o que compromete a precisão e a validade externa dos modelos
-. A integração e harmonização de formatos de dados tão diversos (como imagens, genômica e registros clínicos) é um processo complexo e demorado
-.
+Escassez, Qualidade e Padronização de Dados: A IA é tão inteligente quanto os dados com os quais é alimentada, e os modelos robustos exigem grandes volumes de dados estruturados. Na biologia e na medicina, os dados costumam ser escassos, ruidosos, incompletos e isolados em diferentes instituições, o que compromete a precisão e a validade externa dos modelos
+
+A integração e harmonização de formatos de dados tão diversos (como imagens, genômica e registros clínicos) é um processo complexo e demorado
+
 Viés Algorítmico e Falta de Representatividade: Os conjuntos de dados disponíveis frequentemente contêm vieses, pois dependem de pessoas que aceitaram ter seus dados genéticos sequenciados
-. A vasta maioria dos genomas disponíveis é de origem europeia, resultando em uma profunda falta de dados sobre outras etnias e raças
-. Isso pode gerar modelos menos eficazes ou até mesmo mais arriscados para os grupos demográficos sub-representados
-.
+A vasta maioria dos genomas disponíveis é de origem europeia, resultando em uma profunda falta de dados sobre outras etnias e raças
+Isso pode gerar modelos menos eficazes ou até mesmo mais arriscados para os grupos demográficos sub-representados
+
 O Problema da "Caixa Preta" e Falta de Interpretabilidade: Muitos algoritmos avançados de aprendizado profundo (Deep Learning) operam como "caixas pretas", o que torna extremamente difícil para os cientistas e médicos entenderem como a máquina chegou a uma determinada conclusão
-. Essa ausência de transparência levanta preocupações sobre confiança, responsabilidade e segurança do paciente, dificultando a aceitação clínica dessas ferramentas na linha de frente
-.
-Dificuldades de Validação e Generalização: Frequentemente, os modelos de IA são treinados com dados de uma única instituição, o que faz com que não funcionem adequadamente quando aplicados a outras populações, laboratórios ou práticas médicas distintas
-. Além disso, há uma escassez de validações externas rigorosas e de comparações (benchmarking) entre as plataformas de IA e os métodos tradicionais estabelecidos, dificultando a comprovação de seu real benefício e sua aceitação por órgãos regulatórios
-.
-Desafios Regulatórios, Éticos e de Privacidade: O uso de IA depende de conjuntos massivos de dados confidenciais de pacientes, levantando fortes preocupações sobre privacidade, segurança cibernética, risco de vazamentos e consentimento informado
-. Paralelamente, as agências reguladoras ainda estão adaptando suas diretrizes e enfrentam a falta de estruturas padronizadas e terminologias harmonizadas para supervisionar adequadamente o uso de algoritmos na tomada de decisões clínicas e no desenvolvimento de terapias
-.
-Complexidade Biológica e Lacunas Fisiológicas: Modelar a biologia humana é um desafio formidável. A medicina e a biologia muitas vezes sofrem com terminologias imprecisas, falta de formalização de conceitos e uma forte insuficiência de dados quantitativos precisos sobre a fisiologia humana e interações celulares complexas
-. A ausência dessas bases dificulta a criação de regras e lógicas claras para que a IA consiga simular e prever o comportamento de tecidos vivos de forma confiável
-.
-Barreiras Operacionais e Escassez de Mão de Obra: Integrar a IA aos processos tradicionais e rígidos de desenvolvimento farmacêutico exige investimentos significativos e mudanças drásticas em infraestrutura
-. Há também uma grande escassez de profissionais qualificados que possuam conhecimentos interdisciplinares, mesclando expertise biológica ou médica com habilidades avançadas em ciência de dados e IA
+
+Essa ausência de transparência levanta preocupações sobre confiança, responsabilidade e segurança do paciente, dificultando a aceitação clínica dessas ferramentas na linha de frente
+
+Dificuldades de Validação e Generalização: Frequentemente, os modelos de IA são treinados com dados de uma única instituição, o que faz com que não funcionem adequadamente quando aplicados a outras populações, laboratórios ou práticas médicas distintas. Além disso, há uma escassez de validações externas rigorosas e de comparações (benchmarking) entre as plataformas de IA e os métodos tradicionais estabelecidos, dificultando a comprovação de seu real benefício e sua aceitação por órgãos regulatórios
+
+Desafios Regulatórios, Éticos e de Privacidade: O uso de IA depende de conjuntos massivos de dados confidenciais de pacientes, levantando fortes preocupações sobre privacidade, segurança cibernética, risco de vazamentos e consentimento informado. Paralelamente, as agências reguladoras ainda estão adaptando suas diretrizes e enfrentam a falta de estruturas padronizadas e terminologias harmonizadas para supervisionar adequadamente o uso de algoritmos na tomada de decisões clínicas e no desenvolvimento de terapias
+
+Complexidade Biológica e Lacunas Fisiológicas: Modelar a biologia humana é um desafio formidável. A medicina e a biologia muitas vezes sofrem com terminologias imprecisas, falta de formalização de conceitos e uma forte insuficiência de dados quantitativos precisos sobre a fisiologia humana e interações celulares complexas. A ausência dessas bases dificulta a criação de regras e lógicas claras para que a IA consiga simular e prever o comportamento de tecidos vivos de forma confiável
+
+Barreiras Operacionais e Escassez de Mão de Obra: Integrar a IA aos processos tradicionais e rígidos de desenvolvimento farmacêutico exige investimentos significativos e mudanças drásticas em infraestrutura; Há também uma grande escassez de profissionais qualificados que possuam conhecimentos interdisciplinares, mesclando expertise biológica ou médica com habilidades avançadas em ciência de dados e IA
 
