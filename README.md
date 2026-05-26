@@ -24,39 +24,41 @@ https://www.nature.com/articles/s41587-024-02491-x
 
 Quais são as principais ferramentas de IA utilizadas na medicina personalizada?
 
-Categorias e Algoritmos Computacionais Fundamentais:
+- Categorias e Algoritmos Computacionais Fundamentais:
 Redes Neurais Convolucionais (CNNs): Excelentes em capturar padrões em dados não sequenciais e imagens. São usadas em tarefas como patologia digital e também em nuvens de pontos 2D/3D para prever afinidades de ligação de ligantes e proteínas
-.
+
 Redes Neurais Recorrentes (RNNs): Desenvolvidas para processar dados sequenciais (como cadeias de proteínas ou interações metabólicas ao longo do tempo), sendo vitais na previsão de interações proteína-proteína e para gerar moléculas inéditas
-.
+
 Redes Neurais em Grafo (GNNs): Sistemas (como GCNs e GATs) arquitetados especificamente para analisar redes e estruturas ramificadas. Eles mapeiam relacionamentos e interconectividade entre genes e moléculas, sendo muito precisos para descobrir biomarcadores funcionais na biologia de sistemas
-.
+
 Algoritmos Tradicionais de Aprendizado de Máquina: O aprendizado supervisionado (através de Support Vector Machines (SVM), Random Forests e abordagens de regularização como o LASSO) ainda compõe a base primária de triagem para avaliar a toxicidade de drogas, prever desfechos em pacientes e identificar padrões multiômicos robustos
-.
+
 Aprendizado por Reforço (RL): Ferramentas que agem por ciclos contínuos de decisão ("tentativa e erro") em busca de uma recompensa, sendo ideais para ajustar dosagens, direcionar a seleção de candidatos viáveis e aprimorar automações na manufatura de células em biorreatores
-.
+
 Grandes Modelos de Linguagem (LLMs) e IA Generativa:
+
 Modelos de Linguagem de Proteínas (PLMs): Sistemas criados na arquitetura "Transformer" que leem o banco de dados biológico interpretando aminoácidos como se fossem letras ou palavras de um texto
-. Exemplos poderosos incluem o ESM-2 (da Meta), o ProtGPT2, e o AMPLIFY (criado pela Amgen, otimizado de forma open-source para ser leve mas altamente acurado na predição)
-.
-Ferramentas de Predição Estrutural em 3D: Destacam-se o AlphaFold (desenvolvido pela DeepMind) e o RoseTTAFold, que deram início a uma nova era de descobertas predizendo precisamente a estrutura tridimensional das proteínas a partir de seu código genético e permitindo desenhar intervenções no nível atômico
-.
-Redes Generativas Adversariais (GANs) e Modelos de Difusão: Empregados para extrapolar limites químicos através da geração "do zero" (de novo) de assinaturas. O DNA-Diffusion, construído sob a mesma tecnologia de criação de imagens do DALL-E, é capaz de desenhar sequências curtas de DNA sintético super eficientes em induzir atividades genéticas e combater leucemias in vitro
-.
+
+  Exemplos poderosos incluem o ESM-2 (da Meta), o ProtGPT2, e o AMPLIFY (criado pela Amgen, otimizado de forma open-source para ser leve mas altamente acurado na predição)
+
+  Ferramentas de Predição Estrutural em 3D: Destacam-se o AlphaFold (desenvolvido pela DeepMind) e o RoseTTAFold, que deram início a uma nova era de descobertas predizendo precisamente a estrutura tridimensional das proteínas a partir de seu código genético e permitindo desenhar intervenções no nível atômico
+
+  Redes Generativas Adversariais (GANs) e Modelos de Difusão: Empregados para extrapolar limites químicos através da geração "do zero" (de novo) de assinaturas. O DNA-Diffusion, construído sob a mesma tecnologia de criação de imagens do DALL-E, é capaz de desenhar sequências curtas de DNA sintético super eficientes em induzir atividades genéticas e combater leucemias in vitro
+
 Plataformas, Aplicativos e Agentes Baseados em IA:
 CRISPR-GPT: Uma ferramenta em linguagem natural que age como um "copiloto" automatizado de edição genômica. Auxilia desde estudantes até especialistas a planejar experimentos complexos, detectar guias (gRNAs) mais seguras e evitar riscos biológicos
-.
+
 OpenCRISPR-1: Trata-se do primeiro sistema editor de genoma totalmente sintético projetado por uma inteligência artificial através do treinamento em atlas metagenômicos massivos, operando com eficiência comparável ou superior ao tradicional modelo bacteriano SpCas9
-.
+
 CapsidMap™, Dyno Psi-1 e Dyno Phi: Arsenal computacional da Dyno Therapeutics. O CapsidMap usa aprendizado de máquina para modelar milhares de modificações no revestimento de vírus terapêuticos (AAVs) para contornar o sistema imune humano
-. O Dyno Psi-1 e o Dyno Phi funcionam como agentes e APIs para programar ligantes em tecidos ultra específicos em ensaios de doenças raras
+O Dyno Psi-1 e o Dyno Phi funcionam como agentes e APIs para programar ligantes em tecidos ultra específicos em ensaios de doenças raras
 .
 MOGRIFY® e epiMOGRIFY®: Algoritmos comerciais dedicados à reprogramação e transdiferenciação da identidade das células sem indução de pluripotência artificial; eles mapeiam epigenomas complexos e geram coquetéis químicos para orientar as terapias regenerativas diretas
-.
+
 Gêmeos Digitais (Digital Twins): Perfis virtuais simulados que replicam as propriedades biológicas de pacientes reais usando dados massivos, ajudando médicos a simular as taxas de resposta e a incidência de toxicidade em certas condições imunológicas sem causar risco humano direto. Eles também operam como sistemas autônomos na biomanufatura farmacêutica em escala para detectar anomalias laboratoriais nos lotes
-.
+
 CART-GPT: É um sistema de inteligência linguística que combina os dados das células T para auxiliar na predição de possíveis efeitos de neurotoxicidade induzida e no desfecho terapêutico de terapias com tecnologia CAR-T
-.
+
 Ferramentas de IA Explicável (XAI - como SHAP e LIME): Esses não são desenvolvimentos farmacêuticos em si, mas sim os instrumentos fundamentais adotados para quebrar o mistério algorítmico da "caixa-preta", explicando matematicamente como e quais dados biológicos levaram a IA a uma determinada conclusão de precisão, passo fundamental para ganhar o aval e a confiança dos órgãos reguladores de saúde
 
 
