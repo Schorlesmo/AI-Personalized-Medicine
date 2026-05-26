@@ -2,7 +2,7 @@
 
 https://notebooklm.google.com/notebook/f7ef17bc-4634-4043-9ef5-8a93f2bd16ee
 
-Tema: Como funciona a utilização da inteligência artificial no desenvolvimento de novos medicamentos
+Tema: Inteligência Artificial na saúde e terapia avançadas
 
 Objetivo: Entender quais são as principais ferramentas de IA utilizadas na medicina personalizada e suas aplicações
 
