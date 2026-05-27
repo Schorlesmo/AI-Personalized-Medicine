@@ -131,6 +131,8 @@ Complexidade Biológica e Lacunas Fisiológicas: Modelar a biologia humana é um
 
 Barreiras Operacionais e Escassez de Mão de Obra: Integrar a IA aos processos tradicionais e rígidos de desenvolvimento farmacêutico exige investimentos significativos e mudanças drásticas em infraestrutura; Há também uma grande escassez de profissionais qualificados que possuam conhecimentos interdisciplinares, mesclando expertise biológica ou médica com habilidades avançadas em ciência de dados e IA
 
+
+
 ## Crie um guia passo a passo para o desenvolvimento de uma terapia gênica, desde a escolha do alvo terapêutico até os ensaios clínicos de fase 3. Esse guia deve conter a metodologia, vetores de entrega, multiplicação do vetor, ensaios pré-clínicos de toxicidade e possíveis eventos adversos
 
 A terapia gênica é uma técnica inovadora que busca tratar ou prevenir doenças modificando, inserindo ou substituindo o material genético dentro das células de um paciente
@@ -166,9 +168,9 @@ Passo 4: Ensaios Pré-Clínicos de Toxicidade e Segurança A agência reguladora
 
 - Estudos de Biodistribuição: Monitora-se por quanto tempo o vetor persiste, se é depurado e para quais órgãos do corpo ele viaja de forma inadvertida (fuga do tecido-alvo)
 
-= Ensaios de Toxicologia e Tumorigenicidade: Deve ser investigada qualquer ocorrência de quebras "fora do alvo" (off-target edits), mutagênese insercional (risco de ativação de oncogenes que causariam câncer) e respostas imunes indesejáveis contra o capsídeo viral
+- Ensaios de Toxicologia e Tumorigenicidade: Deve ser investigada qualquer ocorrência de quebras "fora do alvo" (off-target edits), mutagênese insercional (risco de ativação de oncogenes que causariam câncer) e respostas imunes indesejáveis contra o capsídeo viral
 
-= Fase 0+ e Gêmeos Digitais Simulado: Com a inteligência artificial, avaliações in silico podem modelar previamente os efeitos da droga antes mesmo dos animais, utilizando dados virtuais do paciente simulado para reduzir custos e refinar as doses e limites de toxicidade de forma segura
+- Fase 0+ e Gêmeos Digitais Simulado: Com a inteligência artificial, avaliações in silico podem modelar previamente os efeitos da droga antes mesmo dos animais, utilizando dados virtuais do paciente simulado para reduzir custos e refinar as doses e limites de toxicidade de forma segura
 
 Passo 5: Ensaios Clínicos e Eventos Adversos Os testes clínicos progridem gradualmente das Fases 1 até a 3. Na Fase 1 o foco é puramente a segurança e as doses; na Fase 2 mensura-se a eficácia preliminar; e a Fase 3 avalia a eficácia em maior escala comparada aos tratamentos padrão do mercado. Devido aos riscos de reações graves, essas terapias começam com uma escalada de dose extremamente conservadora e monitoramento incansável do paciente
 
