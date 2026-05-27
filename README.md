@@ -24,7 +24,7 @@ https://www.nature.com/articles/s41587-024-02491-x
 
 # Principais prompts utilizados
 
-Quais são as principais ferramentas de IA utilizadas na medicina personalizada?
+## Quais são as principais ferramentas de IA utilizadas na medicina personalizada?
 
 Categorias e Algoritmos Computacionais Fundamentais:
   
@@ -67,7 +67,7 @@ CRISPR-GPT: Uma ferramenta em linguagem natural que age como um "copiloto" autom
 
 
 
-Como a IA pode acelerar a descoberta de novas terapias?
+## Como a IA pode acelerar a descoberta de novas terapias?
 
 A Inteligência Artificial (IA) acelera a descoberta de novas terapias ao transformar o tradicional e longo processo de tentativa e erro em uma abordagem preditiva, ágil e orientada por dados
 
@@ -109,7 +109,7 @@ Na vanguarda da medicina genética, a IA é usada para:
 
 
 
-Quais são os gargalos da utilização de IA na medicina personalizada?
+## Quais são os gargalos da utilização de IA na medicina personalizada?
 
 Escassez, Qualidade e Padronização de Dados: A IA é tão inteligente quanto os dados com os quais é alimentada, e os modelos robustos exigem grandes volumes de dados estruturados. Na biologia e na medicina, os dados costumam ser escassos, ruidosos, incompletos e isolados em diferentes instituições, o que compromete a precisão e a validade externa dos modelos
 
